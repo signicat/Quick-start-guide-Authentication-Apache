@@ -60,6 +60,9 @@ Your local server should now be up and running. Open http://localhost:5000/ in y
 
 ### Norwegian BankID test credentials
 Norwegian BankID test user information
-User ID: 10103933108
-One time password (OTP): otp
-Password: qwer1234
+
+| Name                     | Value         |
+| ------------------------ | ------------- |
+| User ID                  | 10103933108   |
+| One time password (OTP)  | otp           |
+| Password                 | qwer1234      |
