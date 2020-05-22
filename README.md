@@ -56,5 +56,10 @@ a2ensite signicat-quickstart
 service apache2 start # if already running run: service apache2 reload
 ```
 ## Try it!
-point your browser to http://localhost:5000
+Your local server should now be up and running. Open http://localhost:5000/ in your browser and select Norwegian BankID. Remember to use the test credentials below when identifying.
 
+### Norwegian BankID test credentials
+Norwegian BankID test user information
+User ID: 10103933108
+One time password (OTP): otp
+Password: qwer1234
